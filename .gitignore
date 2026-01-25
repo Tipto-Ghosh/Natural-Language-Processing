@@ -206,5 +206,6 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 embeddings
-Bert/ber_base_train_dir/*
+Bert/ber_base_train_dir/
 Bert/tmp_trainer/
+Text-Preprocessing/Data/
