@@ -209,3 +209,4 @@ embeddings
 Bert/ber_base_train_dir/
 Bert/tmp_trainer/
 Text-Preprocessing/Data/
+Bert/distilbert-ner/
