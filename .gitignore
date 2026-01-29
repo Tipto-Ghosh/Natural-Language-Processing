@@ -212,3 +212,6 @@ Text-Preprocessing/Data/
 Bert/distilbert-ner/
 Data/
 bert-ner-results/
+Text Summarization/t5-samsum-tokenizer
+t5-samsum-model/
+Text Summarization/t5-samsum-finetuined-model
