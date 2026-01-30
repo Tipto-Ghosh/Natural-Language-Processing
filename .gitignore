@@ -215,3 +215,4 @@ bert-ner-results/
 Text Summarization/t5-samsum-tokenizer
 t5-samsum-model/
 Text Summarization/t5-samsum-finetuined-model
+tmp_trainer
